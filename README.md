@@ -1,3 +1,3 @@
 # react-03_Navegacao
 
-author: Danielly
+author: Kauã Rafaldini
